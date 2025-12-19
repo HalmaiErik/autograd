@@ -11,7 +11,7 @@ Every class in the computational graph is a subclass of Node, which is then used
 - Implement a neural net with the Tensor objects.
 
 ## Bibliography
-https://docs.pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
-https://pytorch.org/blog/computational-graphs-constructed-in-pytorch/
-https://www.youtube.com/watch?v=MswxJw-8PvE
+[A Gentle Introduction to torch.autograd](https://docs.pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)  
+[Computational graphs constructed in Pytorch](https://pytorch.org/blog/computational-graphs-constructed-in-pytorch/)  
+[PyTorch Autograd Explained - In-depth Tutorial](https://www.youtube.com/watch?v=MswxJw-8PvE)  
 
